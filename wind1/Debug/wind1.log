@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (wind1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  wind1.cpp
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,85): warning C4244:         with
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,85): warning C4244:         [
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,85): warning C4244:             T=int
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,85): warning C4244:         ]
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,85): warning C4244:         and
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,85): warning C4244:         [
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,85): warning C4244:             T=float
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,85): warning C4244:         ]
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,56): warning C4244:         with
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,56): warning C4244:         [
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,56): warning C4244:             T=int
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,56): warning C4244:         ]
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,56): warning C4244:         and
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,56): warning C4244:         [
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,56): warning C4244:             T=float
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(29,56): warning C4244:         ]
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(215,1): warning C4805: '==': unsafe mix of type 'FLAGS' and type 'bool' in operation
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(223,1): warning C4805: '==': unsafe mix of type 'FLAGS' and type 'bool' in operation
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(231,1): warning C4805: '==': unsafe mix of type 'FLAGS' and type 'bool' in operation
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(236,1): warning C4805: '==': unsafe mix of type 'FLAGS' and type 'bool' in operation
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(246,1): warning C4805: '==': unsafe mix of type 'FLAGS' and type 'bool' in operation
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(252,1): warning C4805: '==': unsafe mix of type 'FLAGS' and type 'bool' in operation
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(258,1): warning C4805: '==': unsafe mix of type 'FLAGS' and type 'bool' in operation
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(262,1): warning C4805: '==': unsafe mix of type 'FLAGS' and type 'bool' in operation
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(272,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\youssef\source\repos\wind1\wind1\Grid.h(282): warning C4715: 'Grid::bestmove': not all control paths return a value
+  wind1.vcxproj -> C:\Users\youssef\source\repos\wind1\Debug\tic_tac_toe.exe
